@@ -1,0 +1,1 @@
+"index=windows EventID=4672 User!="Administrator" | table _time, User, Privileges, Workstation" 
